@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @iyanulo199
-- 👀 I’m interested in improving my python coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m currently improving my python development skills
+- 💞️ I’m looking to collaborate on Web Development using Python framework.
 - 📫 How to reach me ...
 
 <!---
