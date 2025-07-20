@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iyanulo199
 - 👀 I’m currently improving my python development skills
-- 💞️ I’m looking to collaborate on Web Development using Python framework.
+- 💞️ I’m looking to collaborate on Web Development using Python framework Django.
 - 📫 How to reach me ...
 
 <!---
